@@ -1,0 +1,44 @@
+<schedule>
+    <wednesday>
+        <lectures>
+            <lecture id = 'lecture.one'>
+                <name>Информатика</name>
+                <type>Лекция</type>
+                <time>
+                    <start>08:20</start>
+                    <end>09:50</end>
+                    <end>09:50</end>
+                    <end>09:50</end>
+                </time>
+                <teacher>
+                    <surname>Балакшин</surname>
+                    <name>Павел</name>
+                    <lastname>Валерьевич</lastname>
+                </teacher>
+                <place>
+                    <adress>Ул.Ломоносова, д.9, лит. М</adress>
+                    <audience>Актовый зал (1216/0)</audience>
+                </place>
+                <format>Очно</format>
+            </lecture>
+            <lecture id = 'lecture.two'>
+                <name>Основы профессиональной деятельности</name>
+                <type>Лекция</type>
+                <time>
+                    <start>10:00</start>
+                    <end>11:30</end>
+                </time>
+                <teacher>
+                    <surname>Клименков</surname>
+                    <name>Сергей</name>
+                    <lastname>Викторович</lastname>
+                </teacher>
+                <place>
+                    <adress>Ул.Ломоносова, д.9, лит. М</adress>
+                    <audience>Актовый зал (1216/0)</audience>
+                </place>
+                <format>Очно</format>
+            </lecture>
+      </lectures>
+    </wednesday>
+</schedule>
